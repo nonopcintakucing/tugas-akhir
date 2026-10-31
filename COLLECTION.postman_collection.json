@@ -1,0 +1,49 @@
+{
+  "info": {
+    "_postman_id": "36c7e048-807e-4f95-8716-82a770100e96",
+    "name": "COLLECTION",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "52221844"
+  },
+  "item": [
+    {
+      "name": "APISekolah",
+      "item": [
+        {
+          "name": "User",
+          "item": [
+            {
+              "name": "GetDataUser",
+              "request": {
+                "method": "GET",
+                "header": []
+              },
+              "response": []
+            },
+            {
+              "name": "GetDataUserByID",
+              "request": {
+                "method": "GET",
+                "header": []
+              },
+              "response": []
+            }
+          ]
+        },
+        {
+          "name": "Kelas",
+          "item": [
+            {
+              "name": "GetDataKelas",
+              "request": {
+                "method": "GET",
+                "header": []
+              },
+              "response": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
